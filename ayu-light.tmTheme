@@ -386,8 +386,6 @@ a {
 			<string>support.type, support.class</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
 				<key>foreground</key>
 				<string>#55B4D4</string>
 			</dict>
