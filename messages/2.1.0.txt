@@ -7,4 +7,4 @@ Version 2.1.0
 Changes:
 
   * Wider scrollbars. Activate with option `ui_wide_scrollbars`
-  * Add support for [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro) as UI font
+  * Add support for SF Compact Display as UI font

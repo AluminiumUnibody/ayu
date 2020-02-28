@@ -134,13 +134,13 @@
   },
   {
     "class": "tool_tip_label_control",
-    "settings": ["ui_font_source_code_pro"],
-    "font.face": "Source Code Pro"
+    "settings": ["ui_font_sf_compact_display"],
+    "font.face": "SF Compact Display"
   },
   {
     "class": "tool_tip_label_control",
-    "settings": ["ui_font_roboto_mono"],
-    "font.face": "Roboto mono"
+    "settings": ["ui_font_sf_mono"],
+    "font.face": "SF Mono"
   },
 
   /* OVERLAY PANELS
@@ -393,13 +393,13 @@
   },
   {
     "class": "tab_label",
-    "settings": ["ui_font_source_code_pro"],
-    "font.face": "Source Code Pro"
+    "settings": ["ui_font_sf_compact_display"],
+    "font.face": "SF Compact Display"
   },
   {
     "class": "tab_label",
-    "settings": ["ui_font_roboto_mono"],
-    "font.face": "Roboto mono"
+    "settings": ["ui_font_sf_mono"],
+    "font.face": "SF Mono"
   },
   {
     "class": "tab_label",
@@ -580,13 +580,13 @@
   },
   {
     "class": "sidebar_heading",
-    "settings": ["ui_font_source_code_pro"],
-    "font.face": "Source Code Pro"
+    "settings": ["ui_font_sf_compact_display"],
+    "font.face": "SF Compact Display"
   },
   {
     "class": "sidebar_heading",
-    "settings": ["ui_font_roboto_mono"],
-    "font.face": "Roboto mono"
+    "settings": ["ui_font_sf_mono"],
+    "font.face": "SF Mono"
   },
 
   {
@@ -616,13 +616,13 @@
   },
   {
     "class": "sidebar_label",
-    "settings": ["ui_font_source_code_pro"],
-    "font.face": "Source Code Pro"
+    "settings": ["ui_font_sf_compact_display"],
+    "font.face": "SF Compact Display"
   },
   {
     "class": "sidebar_label",
-    "settings": ["ui_font_roboto_mono"],
-    "font.face": "Roboto mono"
+    "settings": ["ui_font_sf_mono"],
+    "font.face": "SF Mono"
   },
 
   {
@@ -1002,13 +1002,13 @@
   },
   {
     "class": "label_control",
-    "settings": ["ui_font_source_code_pro"],
-    "font.face": "Source Code Pro"
+    "settings": ["ui_font_sf_compact_display"],
+    "font.face": "SF Compact Display"
   },
   {
     "class": "label_control",
-    "settings": ["ui_font_roboto_mono"],
-    "font.face": "Roboto mono"
+    "settings": ["ui_font_sf_mono"],
+    "font.face": "SF Mono"
   },
 
   // Status bar labels
